@@ -13,3 +13,10 @@ h2 {
 h3 {
   margin-left: -1.5%;
 }
+
+.citation {
+  font-family: "Courier New";
+}
+ol.citation li {
+  padding-bottom: 15px;
+}
